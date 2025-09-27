@@ -1,6 +1,6 @@
-package BreakDemo;
+package day2;
 
-public class BreakDemo {
+public class Breakdemo {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
@@ -9,7 +9,8 @@ public class BreakDemo {
 				break;
 			System.out.println(i);
 		}
-		
-   }
+
+
+	}
 
 }
